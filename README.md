@@ -1,3 +1,4 @@
 # test
-Осознанный текст коммита))
-редактирую файл на пк
+add commit
+commit add case
+homework
